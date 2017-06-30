@@ -1,0 +1,21 @@
+import java.io.*;
+import java.net.Socket;
+
+public class ClientC implements Runnable{
+	
+	private final int port;
+	
+	public ClienC()
+	{
+		this(Constants.DEFAULT_PORT);
+	}
+	public ClientC(int port)
+	{
+		this.port = port;
+	}
+	public void run()
+	{
+		
+	}
+
+}

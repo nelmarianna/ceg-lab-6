@@ -1,0 +1,26 @@
+
+import java.io.*;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+public class Server implements Runnable{
+	
+	private final int port;
+	
+	public Server()
+	{
+		this(Constants.DEFAULT_PORT);
+	}
+	public Server(int port)
+	{
+		this.port = port;
+	}
+	public void run()
+	{
+		
+	}
+	
+
+}

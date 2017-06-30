@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1498859793759">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1498859793759" javadocURL\="https\://docs.oracle.com/javase/8/docs/api/" name\="jdk-8u45" path\="C\:\\ProgramData\\App-V\\2CBF4F53-D7F4-4095-B7F8-387CF6F608BA\\8A9FAB2E-4CA7-4AD1-B38B-4CEBE37A1795\\Root\\jdk-8u45"/>\r\n</vmType>\r\n</vmSettings>\r\n
