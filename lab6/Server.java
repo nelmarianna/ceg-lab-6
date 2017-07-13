@@ -1,5 +1,3 @@
-
-import utils.Constants;
 import utils.Frame;
 import utils.HDLC;
 
@@ -17,7 +15,7 @@ public class Server implements Runnable {
     private ServerSocket serverSocket;
 
     public Server() {
-        this(Constants.DEFAULT_PORT);
+        this(444);
     }
 
     public Server(int port) {

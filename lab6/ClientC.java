@@ -1,4 +1,4 @@
-import utils.Constants;
+//import utils.Constants;
 import utils.Frame;
 import utils.HDLC;
 
@@ -10,7 +10,7 @@ public class ClientC implements Runnable {
     private final int port;
 
     public ClientC() {
-        this(Constants.DEFAULT_PORT);
+        this(444);
     }
 
     public ClientC(int port) {
